@@ -1,4 +1,4 @@
-# Sanitary Vending Machine with Arduino Uno
+# Sanitary Vending Machine with Arduino Uno & Settings Menu using EEPROM
 This GitHub repository contains the code and documentation for a 4-tray sanitary vending machine project. Originally designed with a customized STM32 board from a Chinese supplier, the project faced challenges related to unavailability and lack of support during setup. To overcome these obstacles, the team, led by Marvin T. Bangcailan with assistance from Ivan Mamaril, transitioned to using an ARDUINO UNO. The modification process has been documented to facilitate the operational usage of the vending machine.
 
 ## Project Overview
