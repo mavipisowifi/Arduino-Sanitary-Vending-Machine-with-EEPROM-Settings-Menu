@@ -18,7 +18,7 @@ To replicate or modify the project, the following materials are needed:
 9. Electronics tools
 10. Coin Acceptor
 ```
-### Note: For additional trays and buttons, consider using Arduino Mega or Arduino GIGA for more PWM pins. You can also add a relay module to manipulate a coin acceptor LED frame.
+### Note: For additional trays and buttons, consider using Arduino Mega or Arduino GIGA for more PWM pins. You can also add a relay module (set to Pin 12) to manipulate a coin acceptor LED frame.
 
 ## Code Attribution
 If you intend to use or modify the Arduino code for this sanitary vending machine in your own projects, please provide proper attribution to the original creators. Credits go to:
